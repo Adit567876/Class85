@@ -1,0 +1,19 @@
+#submit_button{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+input{
+    margin:10px;
+}
+#displayname_with_comma{
+background-color: aqua;
+border:1px solid black;
+padding:10px;
+width:50%
+}
+#displayname_without_comma{
+    background-color: green;
+    border:1px solid gray;
+    padding:10px;
+    width:50%
+    }
